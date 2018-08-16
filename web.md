@@ -5,7 +5,7 @@ Currency amounts are in cents.
 
 ## acc_created
 
-Table with the account creation date.
+Table with the account creation date. In my case this data was incorrectly dumped.
 
 * `accCreated`: Account creation date
 
@@ -18,7 +18,7 @@ Table with the activity feed displayed on your personal profile like started for
 
 ## birth_date
 
-Table with the date of birth.
+Table with the date of birth. In my case this data was incorrectly dumped.
 
 * `dataUrodzenia`: Date of birth
 
