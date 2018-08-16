@@ -15,7 +15,7 @@ All dates are in the strftime format `%Y-%m-%d %H-%M-%S`.
 
 ## chatConversations
 
-Note: This file is not included in the dump because it containes personal data of other people.
+Note: This file is not included in the dump because it contains personal data of other people.
 
 * `room_id`: 64 bit Room ID
 * `username`: User writing the message
@@ -62,7 +62,7 @@ Note: This file is not included in the dump because it containes personal data o
 
 ## proposedFriends
 
-Note: This file is not included in the dump because it containes personal data of other people.
+Note: This file is not included in the dump because it contains personal data of other people.
 
 * `proposed_to_user_id`: Own user ID
 * `source`: Recommendation source (probably to differenciate Facebook recommendations). Known values: `internal`
