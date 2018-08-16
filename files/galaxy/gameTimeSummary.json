@@ -1,0 +1,19 @@
+[{
+    "game_id": 1436869408,
+    "time": 0,
+    "sessions_count": 2,
+    "date_created": "2016-10-02 21:42:09",
+    "date_updated": "2016-11-26 17:23:52"
+}, {
+    "game_id": 1456487183,
+    "time": 0,
+    "sessions_count": 2,
+    "date_created": "2017-06-15 02:23:29",
+    "date_updated": "2017-06-15 03:45:42"
+}, {
+    "game_id": 1618073558,
+    "time": 9,
+    "sessions_count": 2,
+    "date_created": "2018-05-13 03:15:12",
+    "date_updated": "2018-05-13 03:24:23"
+}]
