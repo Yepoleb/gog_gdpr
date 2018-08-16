@@ -1,6 +1,6 @@
 # Website
 
-All dates are in the strftime format "%Y-%m-%d %H-%M-%S".
+All dates are in the strftime format `%Y-%m-%d %H-%M-%S`.
 Currency amounts are in cents.
 
 ## acc_created
